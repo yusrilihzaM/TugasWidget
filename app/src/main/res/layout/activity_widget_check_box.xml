@@ -60,8 +60,7 @@
         android:id="@+id/cb5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-
-        android:text="Phyton"
+        android:text="Pyhton"
         android:checked="false" />
 
     <CheckBox
@@ -78,12 +77,5 @@
         android:id="@+id/btn1"
         android:layout_gravity="center_horizontal" />
 
-    <TextView
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:gravity="center|bottom"
-        android:text="okedroid.com"
-        android:textColor="#2ecc71"
-        android:textSize="29sp" />
 
 </LinearLayout>

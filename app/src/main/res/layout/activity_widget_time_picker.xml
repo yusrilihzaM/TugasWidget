@@ -30,10 +30,5 @@
         android:text="Display Current Time"
         android:textSize="22dp" />
 
-    <TextView
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:text="okedroid.com"
-        android:gravity="center|bottom"
-        android:textStyle="bold" />
+
 </LinearLayout>

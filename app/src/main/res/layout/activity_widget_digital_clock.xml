@@ -67,12 +67,5 @@
 
     </LinearLayout>
 
-    <TextView
-        android:id="@+id/textView14"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:gravity="bottom|center"
-        android:text="okedroid.com"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:textSize="24sp" />
+
 </LinearLayout>

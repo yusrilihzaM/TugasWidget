@@ -37,12 +37,6 @@
         android:layout_height="wrap_content"
         android:text="Android Switch Button" />
 
-    <TextView
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:gravity="center|bottom"
-        android:text="okedroid.com"
-        android:textSize="24sp"
-        android:textStyle="bold" />
+
 
 </LinearLayout>

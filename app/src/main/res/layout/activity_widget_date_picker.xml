@@ -37,14 +37,6 @@
                 android:text="Display Date"
                 android:textSize="22sp" />
 
-            <TextView
-                android:layout_width="fill_parent"
-                android:layout_marginTop="5dp"
-                android:layout_height="fill_parent"
-                android:gravity="center|bottom"
-                android:text="okedroid.com"
-                android:textSize="24sp"
-                android:textStyle="bold" />
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
