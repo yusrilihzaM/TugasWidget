@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#ff7a0d</color>
-    <color name="colorPrimaryDark">#de6400</color>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#3E2723</color>
     <color name="colorAccent">#D81B60</color>
-    <color name="btn">#EAF704</color>
+    <color name="choco">#7E735F</color>
+    <color name="white">#fff</color>
+    <color name="gradstart">#795548</color>
+    <color name="gradend">#3E2723</color>
 </resources>
